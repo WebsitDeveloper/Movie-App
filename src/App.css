@@ -1,0 +1,7 @@
+.main-div {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+.col-3 {
+  width: 300px;
+}
